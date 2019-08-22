@@ -1,0 +1,7 @@
+
+
+{
+"insecure-registries" : [ "165.22.65.27:5000" ],
+"debug": true
+
+}
